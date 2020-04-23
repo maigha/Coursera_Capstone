@@ -1,0 +1,9 @@
+Introduction 
+
+The idea behind this project is to explore the neighborhoods in Toronto for their liveability. A neighborhood may be categorized based on the venues, 
+crime rate, population demographics like total count, immigrations, healthy food index, and other parameters like number of rented vs owned dwellings, 
+average income or average rent. The stakeholders include anyone interested in learning about the neighborhoods not only for liveability ut also to 
+understand the business potential of the town. In this project the focus is on understanding the potential of choosing an area of residence.
+
+Business Problem
+Can we determine the attractiveness of a neighborhoods (top 10) based on the venues, lower crime rates, number of rented dwellings, average rent, etc?
